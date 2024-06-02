@@ -6,12 +6,14 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Key Laboratory of Intelligent and Reliable Navigation and Positioning of Hunan Province
 - 🌱 I’m currently learning GNSS
+ <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
 
 
 <div align="center">
@@ -27,12 +29,10 @@ Here are some ideas to get you started:
 <!-- profile logo 个人资料徽标 -->
 
 <div>
-    <img alt="Static Badge" src="https://img.shields.io/badge/%E7%94%B5%E8%AF%9D-8888888888-blue">
-    <img alt="Static Badge" src="https://img.shields.io/badge/QQ-8888888888-red">
-    <img alt="Static Badge" src="https://img.shields.io/badge/%E5%BE%AE%E4%BF%A1-wechat-green">
-    <img alt="Static Badge" src="https://img.shields.io/badge/Email-email.com-brown">
-    <a href="https://blog.csdn.8888"><img src="https://img.shields.io/badge/CSDN-论坛-c32136" /></a>
-    <a href="https://www.zhihu.com/8888"><img src="https://img.shields.io/badge/Zhihu-知乎-blue" /></a>
+    <!--<img alt="Static Badge" src="https://img.shields.io/badge/%E7%94%B5%E8%AF%9D-8888888888-blue"> -->
+    <img alt="Static Badge" src="https://img.shields.io/badge/QQ-1440492212-red">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Email-liusheng@smail.xtu.edu.cn-brown">
+    <!--<a href="https://www.zhihu.com/8888"><img src="https://img.shields.io/badge/Zhihu-知乎-blue" /></a>-->
     <!-- visitor statistics logo 访问量统计徽标 -->
     <img src="https://komarev.com/ghpvc/?username=liusheng2020&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
 </div>
