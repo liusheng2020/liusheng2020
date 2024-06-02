@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 <tr><td>
     
-### 🤺 About Me[学习使用大神的模版，并非盗用和冒充]
+### 🤺 About Me[学习使用模版]
 <!-- profile logo 个人资料徽标 -->
 
 <div>
