@@ -4,7 +4,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Key Laboratory of Intelligent and Reliable Navigation and Positioning of Hunan Province
+- 🔭 I’m currently working at Key Laboratory of Intelligent and Reliable Navigation and Positioning of Hunan Province
 - 🌱 I’m currently learning GNSS
  <!--
 - 👯 I’m looking to collaborate on ...
