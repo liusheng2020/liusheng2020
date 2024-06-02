@@ -89,10 +89,9 @@ sorry, 技能还在修炼中。让我们重新来一遍：
 <p>&emsp;&emsp;👋 嗨，你好，我是liusheng2020。</p>
 <p>&emsp;&emsp;👨‍🎓 学生。</p>
 <p>&emsp;&emsp;🕵️‍♂️ 研究方向包括 GNSS。</p>
-<p>&emsp;&emsp;✨ 热爱编程、喜欢折腾、尝试过不少技术但掌握的还都很浅。</p>
-<p>&emsp;&emsp;💻 常用编程语言有 C、C++、C#、MATLAB、Python、Verilog。</p>
-<p>&emsp;&emsp;📚 系统学习过 RTKLIB、GAMP、SoftGNSS、PSINS、ORB-SLAM 等开源程序。</p>
-<p>&emsp;&emsp;💡 希望能成为一名优秀的开发者，做出点名堂来，为建设美好世界贡献出自己的一份力。</strong></p>
+<p>&emsp;&emsp;✨ 尝试过不少技术但掌握的还都很浅。</p>
+<!-- <p>&emsp;&emsp;📚 系统学习过 RTKLIB、GAMP、SoftGNSS、PSINS、ORB-SLAM 等开源程序。</p> -->
+<p>&emsp;&emsp;💡 希望为建设美丽中国和美好世界贡献出自己的一份力。</strong></p>
 <p><strong>&emsp;&emsp;🌍🌎🌏 Hope to make some achievements and contribute my own efforts to building a better world. 🌍🌎🌏</strong></p>
 <div>&nbsp;</div>
 
@@ -108,7 +107,7 @@ sorry, 技能还在修炼中。让我们重新来一遍：
 
 <tr><td align="center" width="55%">
     
-[![LiZhengXiao99's github stats](https://github-readme-stats.vercel.app/api?username=liusheng2020&count_private=true&show_icons=true&theme=white)](https://github.com/liusheng2020/github-readme-stats)
+[![LS's github stats](https://github-readme-stats.vercel.app/api?username=liusheng2020&count_private=true&show_icons=true&theme=white)](https://github.com/liusheng2020/github-readme-stats)
 
 </td><td align="top" width="45%">
 
@@ -131,7 +130,7 @@ sorry, 技能还在修炼中。让我们重新来一遍：
     
 ### 📃 Recent Blog
 
-* <a href='' target='_blank'>待补充。。。</a> - 2024-04-21
+* <a href='' target='_blank'>待补充。。。</a> - 2024-06-02
 
 </td></tr>
 
