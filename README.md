@@ -71,7 +71,7 @@ sorry, 技能还在修炼中。让我们重新来一遍：
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
     <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> 
     <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://zh.wikipedia.org/wiki/MATLAB#/media/File:Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> 
-    <a href="https://www.latex-project.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/25/LaTeX_logo.png" alt="latex" width="40" height="40"/> </a> 
+    <a href="https://www.latex-project.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" alt="latex" width="40" height="40"/> </a> 
     <a href="https://www.latex-project.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/latex/latex-icon.svg" alt="latex" width="40" height="40"/> </a> 
     <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a>  
     <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
