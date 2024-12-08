@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 <div>
     <!--<img alt="Static Badge" src="https://img.shields.io/badge/%E7%94%B5%E8%AF%9D-8888888888-blue"> -->
-    <img alt="Static Badge" src="https://img.shields.io/badge/QQ-1440492212-red">
+    <img alt="Static Badge" src="https://img.shields.io/badge/QQ-88888888-red">
     <img alt="Static Badge" src="https://img.shields.io/badge/Email-liusheng@smail.xtu.edu.cn-brown">
     <!--<a href="https://www.zhihu.com/8888"><img src="https://img.shields.io/badge/Zhihu-知乎-blue" /></a>-->
     <!-- visitor statistics logo 访问量统计徽标 -->
@@ -70,14 +70,19 @@ sorry, 技能还在修炼中。让我们重新来一遍：
 <p align="left"> 
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
     <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> 
-    <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://zh.wikipedia.org/wiki/MATLAB#/media/File:Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> 
-    <a href="https://www.latex-project.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" alt="latex" width="40" height="40"/> </a> 
-    <a href="https://www.latex-project.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/latex/latex-icon.svg" alt="latex" width="40" height="40"/> </a> 
+    <a href="https://www.latex-project.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/2a/TeXstudio_Logo.svg" alt="latex" width="40" height="40"/> </a> 
+    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
+    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
     <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a>  
+    <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://visualstudio.microsoft.com/wp-content/uploads/2022/12/VisualStudioCode.svg" alt="vscode" width="40" height="40"/> </a>  
     <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
+    <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"> <img src="https://wiki.ubuntu.com/Artwork/Official?action=AttachFile&do=get&target=fossa_orange_hex.svg" alt="ubuntu20.04" width="40" height="40"/> </a> 
     <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> 
+    <a href="https://gitee.com/" target="_blank" rel="noreferrer"> <img src="https://gitee.com/static/images/gitee-logos/logo_gitee_g_red.png" alt="Gitee" width="40" height="40"/> </a> 
+    <a href="https://pypi.org/" target="_blank" rel="noreferrer"> <img src="https://pypi.org/static/images/logo-small.8998e9d1.svg" alt="PyPI" width="40" height="40"/> </a> 
+    <a href="https://www.zotero.org/" target="_blank" rel="noreferrer"> <img src="https://www.zotero.org/static/images/blog/7.0/z-logo.png" alt="Zotero" width="40" height="40"/> </a> 
 </p>
 
 
@@ -89,7 +94,7 @@ sorry, 技能还在修炼中。让我们重新来一遍：
 <p>&emsp;&emsp;👋 嗨，你好，我是liusheng2020。</p>
 <p>&emsp;&emsp;👨‍🎓 学生。</p>
 <p>&emsp;&emsp;🕵️‍♂️ 研究方向包括 GNSS。</p>
-<p>&emsp;&emsp;✨ 尝试过不少技术但掌握的还都很浅。</p>
+<p>&emsp;&emsp;✨ 尝试过不少技术，但掌握的还都很浅。努力尝试把专业搞精，<font color="red">[精益求精]</font>。</p>
 <!-- <p>&emsp;&emsp;📚 系统学习过 RTKLIB、GAMP、SoftGNSS、PSINS、ORB-SLAM 等开源程序。</p> -->
 <p>&emsp;&emsp;💡 希望为建设美丽中国和美好世界贡献出自己的一份力。</strong></p>
 <p><strong>&emsp;&emsp;🌍🌎🌏 Hope to make some achievements and contribute my own efforts to building a better world. 🌍🌎🌏</strong></p>
@@ -130,7 +135,7 @@ sorry, 技能还在修炼中。让我们重新来一遍：
     
 ### 📃 Recent Blog
 
-* <a href='' target='_blank'>待补充。。。</a> - 2024-06-02
+* <a href='' target='_blank'>待补充。。。</a>
 
 </td></tr>
 
@@ -139,4 +144,5 @@ sorry, 技能还在修炼中。让我们重新来一遍：
 
 - [ ] 白天跑讲干，晚上读想写
 - [ ] 何须多虑盈亏事，终归小满胜万全
-- [ ] 
+- [ ] 人教人教不会，事教人一教就准
+- [ ] 2024年12月08日14:29:31
