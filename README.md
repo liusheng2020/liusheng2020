@@ -81,6 +81,7 @@ sorry, 技能还在修炼中。让我们重新来一遍：
     <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"> <img src="https://wiki.ubuntu.com/Artwork/Official?action=AttachFile&do=get&target=fossa_orange_hex.svg" alt="ubuntu20.04" width="40" height="40"/> </a> 
     <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> 
     <a href="https://gitee.com/" target="_blank" rel="noreferrer"> <img src="https://gitee.com/static/images/gitee-logos/logo_gitee_g_red.png" alt="Gitee" width="40" height="40"/> </a> 
+    <a href="https://www.kaggle.com/" target="_blank" rel="noreferrer"> <img src="https://storage.googleapis.com/kaggle-media/Kaggle%20Brand%20Guidelines%20CMS/transparent%20logo.png" alt="Kaggle" width="40" height="40"/> </a> 
     <a href="https://pypi.org/" target="_blank" rel="noreferrer"> <img src="https://pypi.org/static/images/logo-small.8998e9d1.svg" alt="PyPI" width="40" height="40"/> </a> 
     <a href="https://www.zotero.org/" target="_blank" rel="noreferrer"> <img src="https://www.zotero.org/static/images/blog/7.0/z-logo.png" alt="Zotero" width="40" height="40"/> </a> 
 </p>
